@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/marcfranciss/FMC-Skilled-e-learning-landing-page.git]
-- Live Site URL: [https://marcfranciss.github.io/FMC-Skilled-e-learning-landing-page.git]
+- Live Site URL: [https://marcfranciss.github.io/FMC-Skilled-e-learning-landing-page/]
 
 ## My process
 
